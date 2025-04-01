@@ -50,9 +50,11 @@ Cursor: https://www.cursor.com/ (An AI-powered code editor)
 5. Optional: Read the assigned papers (They are all open-acccess)
 
 Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. Proceedings of the National Academy of Sciences, 120(30), e2305016120. https://doi.org/10.1073/pnas.2305016120
+
 Wuttke, A., Aßenmacher, M., Klamm, C., Lang, M. M., Würschinger, Q., & Kreuter, F. (2024). AI Conversational Interviewing: Transforming Surveys with LLMs as Adaptive Interviewers. ArXiv.org. https://arxiv.org/abs/2410.01824
 
 Yeykelis, L., Pichai, K., Cummings, J. J., & Reeves, B. (2024). Using Large Language Models to Create AI Personas for Replication and Prediction of Media Effects: An Empirical Test of 133 Published Experimental Research Findings. arXiv preprint arXiv:2408.16073.
+
 Zeph M. C. van Berlo, Colin Campbell & Hilde A. M. Voorveld (2024) The MADE Framework: Best Practices for Creating Effective Experimental Stimuli Using Generative AI, Journal of Advertising, 53:5, 732-753, https://www.tandfonline.com/doi/full/10.1080/00913367.2024.2397777
 
 
