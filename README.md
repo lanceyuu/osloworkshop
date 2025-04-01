@@ -6,9 +6,11 @@ Morning Session (9:30 AM - 12:30 PM)
 Introduction to GenAI applications in research
 Key concepts and terminology
 Preparation for the workshop
+
 10:15 - 11:00 | Literature Review Management
 Literature review tools
 Literature management
+
 11:15 - 12:30 | Deep Research & Automation
 Deep research
 Research workflow optimization
@@ -18,6 +20,7 @@ Afternoon Session (1:30 PM - 5:00 PM)
 1:30 - 3:00 | Stimuli Generation & AI Interviewers
 Creating research materials using AI
 Implementation of AI-powered interviews
+
 3:15 - 5:00 | Text Analytics
 Annotation and theme generation
 Local model deployment for sensitive data
@@ -26,6 +29,7 @@ Day 2 - April 5, 2025 (9:30 AM - 4:00 PM)
 Morning Session (9:30 AM - 12:30 PM)
 9:30 - 10:45 | RAG and Knowledge Base Implementation Retrieval-augmented generation techniques
 Building research knowledge bases 
+
 10:45 - 12:30 | No-Code Programming Solutions
 
 Afternoon Session (1:30 PM - 4:00 PM)
