@@ -52,7 +52,7 @@ China-based: DeepSeek
 AnythingLLM: https://anythingllm.com/ (An all-in-one AI application that works locally and offline)
 LM Studio: https://lmstudio.ai/ (A tool to discover, download, and run local LLMs)
 Cursor: https://www.cursor.com/ (An AI-powered code editor)
-5. Optional: Read the assigned papers (They are all open-acccess)
+5. Optional: Read the assigned papers (They are all open-access)
 
 Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. Proceedings of the National Academy of Sciences, 120(30), e2305016120. https://doi.org/10.1073/pnas.2305016120
 
