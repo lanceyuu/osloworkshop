@@ -1,15 +1,15 @@
 # GenAI-Powered Research Methods Workshop (Hybrid)
 
 Day 1 - April 4, 2025 (9:30 AM - 5:00 PM)
-Morning Session (9:30 AM - 12:30 PM)
-9:30 - 10:15 | Foundations
+Morning Session (9:30 AM - 12:30 PM)  
+9:30 - 10:15 | Foundations  
 Introduction to GenAI applications in research
-Key concepts and terminology
+Key concepts and terminology  
 Preparation for the workshop
 
-10:15 - 11:00 | Literature Review Management
-Literature review tools
-Literature management
+10:15 - 11:00 | Literature Review Management  
+Literature review tools  
+Literature management  
 
 11:15 - 12:30 | Deep Research & Automation
 Deep research
