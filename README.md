@@ -27,7 +27,8 @@ Local model deployment for sensitive data
 
 Day 2 - April 5, 2025 (9:30 AM - 4:00 PM)  
 Morning Session (9:30 AM - 12:30 PM)  
-9:30 - 10:45 | RAG and Knowledge Base Implementation Retrieval-augmented generation techniques  
+9:30 - 10:45 | RAG and Knowledge Base  
+Implementation Retrieval-augmented generation techniques  
 Building research knowledge bases   
 
 10:45 - 12:30 | No-Code Programming Solutions  
