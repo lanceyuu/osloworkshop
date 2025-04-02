@@ -1,6 +1,6 @@
 # GenAI-Powered Research Methods Workshop (Hybrid)
 
-Day 1 - April 4, 2025 (9:30 AM - 5:00 PM)
+Day 1 - April 4, 2025 (9:30 AM - 5:00 PM)  
 Morning Session (9:30 AM - 12:30 PM)  
 9:30 - 10:15 | Foundations  
 Introduction to GenAI applications in research
@@ -11,32 +11,32 @@ Preparation for the workshop
 Literature review tools  
 Literature management  
 
-11:15 - 12:30 | Deep Research & Automation
-Deep research
-Research workflow optimization
-Customized assistants
+11:15 - 12:30 | Deep Research & Automation  
+Deep research  
+Research workflow optimization  
+Customized assistants  
 
-Afternoon Session (1:30 PM - 5:00 PM)
-1:30 - 3:00 | Stimuli Generation & AI Interviewers
-Creating research materials using AI
-Implementation of AI-powered interviews
+Afternoon Session (1:30 PM - 5:00 PM)  
+1:30 - 3:00 | Stimuli Generation & AI Interviewers  
+Creating research materials using AI  
+Implementation of AI-powered interviews  
 
-3:15 - 5:00 | Text Analytics
-Annotation and theme generation
-Local model deployment for sensitive data
+3:15 - 5:00 | Text Analytics  
+Annotation and theme generation  
+Local model deployment for sensitive data  
 
-Day 2 - April 5, 2025 (9:30 AM - 4:00 PM)
-Morning Session (9:30 AM - 12:30 PM)
-9:30 - 10:45 | RAG and Knowledge Base Implementation Retrieval-augmented generation techniques
-Building research knowledge bases 
+Day 2 - April 5, 2025 (9:30 AM - 4:00 PM)  
+Morning Session (9:30 AM - 12:30 PM)  
+9:30 - 10:45 | RAG and Knowledge Base Implementation Retrieval-augmented generation techniques  
+Building research knowledge bases   
 
-10:45 - 12:30 | No-Code Programming Solutions
+10:45 - 12:30 | No-Code Programming Solutions  
 
-Afternoon Session (1:30 PM - 4:00 PM)
-1:30 - 2:45 | Advanced topics
-Data visualization
-Data analysis
-Fine-tuning models for research
+Afternoon Session (1:30 PM - 4:00 PM)  
+1:30 - 2:45 | Advanced topics  
+Data visualization  
+Data analysis  
+Fine-tuning models for research  
 
 2:45 - 4:00 | Synthetic dataset
 
