@@ -41,7 +41,7 @@ Fine-tuning models for research
 
 2:45 - 4:00 | Synthetic dataset
 
-Day one preparation
+Preparation
 1. Register a Google account if you do not have one.
 2. Register on one of the following AI platforms available in your region and compatible with your university policy:
 US-based: OpenAI, Claude, or Gemini
