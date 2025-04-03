@@ -1,4 +1,5 @@
 # GenAI-Powered Research Methods Workshop (Hybrid)
+Pre-workshop survey https://bino.qualtrics.com/jfe/form/SV_08L5ssRcXvhlrMy
 
 Day 1 - April 4, 2025 (9:30 AM - 5:00 PM)  
 Morning Session (9:30 AM - 12:30 PM)  
