@@ -1,0 +1,201 @@
+Country,Year,Industry,AI Adoption Rate (%),AI-Generated Content Volume (TBs per year),Job Loss Due to AI (%),Revenue Increase Due to AI (%),Human-AI Collaboration Rate (%),Top AI Tools Used,Regulation Status,Consumer Trust in AI (%),Market Share of AI Companies (%)
+South Korea,2022,Media,44.29,33.09,16.77,46.12,74.79,Bard,Strict,40.77,18.73
+China,2025,Legal,34.75,66.74,46.89,52.46,26.17,DALL-E,Strict,35.67,35.02
+USA,2022,Automotive,81.06,96.13,10.66,45.6,39.66,Stable Diffusion,Moderate,54.47,22.76
+France,2021,Legal,85.24,93.76,27.7,78.24,29.45,Claude,Moderate,51.84,1.93
+France,2021,Gaming,78.95,45.62,17.45,1.05,21.7,Midjourney,Strict,41.77,21.41
+USA,2021,Retail,66.95,47.72,0.86,27.58,64.42,ChatGPT,Lenient,68.14,8.09
+Australia,2023,Media,68.23,6.14,6.2,53.13,53.16,Claude,Moderate,71.6,15.26
+UK,2023,Gaming,91.27,33.87,41.67,56.26,59.93,ChatGPT,Moderate,46.98,28.51
+Canada,2025,Education,17.02,87.77,4.59,52.45,64.72,Claude,Moderate,60.55,22.7
+China,2025,Healthcare,25.5,18.74,15.07,40.81,64.86,Stable Diffusion,Moderate,51.07,39.97
+USA,2023,Retail,11.94,91.59,26.28,73.93,57.55,Synthesia,Moderate,65.79,29.3
+India,2023,Gaming,39.04,78.44,31.32,28.93,77.95,ChatGPT,Strict,39.63,22.79
+France,2020,Marketing,71.0,77.53,17.41,12.56,31.57,Midjourney,Strict,56.93,38.36
+France,2021,Legal,25.62,86.47,47.64,71.1,36.22,Bard,Lenient,63.66,29.92
+USA,2025,Gaming,49.71,50.19,14.09,12.41,40.18,Stable Diffusion,Moderate,57.05,5.76
+Japan,2024,Legal,67.94,96.81,8.84,51.06,23.04,Stable Diffusion,Lenient,33.16,7.6
+Germany,2022,Education,43.85,52.54,32.07,73.68,74.08,Stable Diffusion,Strict,56.79,25.07
+UK,2025,Manufacturing,64.87,49.04,36.31,38.16,82.41,Synthesia,Lenient,78.14,20.54
+Japan,2022,Healthcare,62.98,24.98,27.51,27.51,53.78,Midjourney,Strict,55.93,30.55
+France,2025,Marketing,62.94,7.49,22.4,71.69,63.54,Stable Diffusion,Lenient,44.26,41.99
+Canada,2025,Gaming,94.76,17.58,14.48,71.63,67.44,Midjourney,Strict,71.96,34.65
+South Korea,2025,Healthcare,44.1,87.85,39.96,33.44,72.72,Midjourney,Lenient,76.74,40.98
+Japan,2023,Marketing,12.86,5.08,18.5,20.65,75.67,DALL-E,Lenient,38.35,5.25
+France,2022,Media,49.97,5.59,22.61,17.55,34.97,Synthesia,Lenient,78.71,27.6
+France,2023,Media,88.41,5.34,36.07,13.78,36.24,Synthesia,Moderate,58.85,35.86
+France,2020,Automotive,79.59,20.37,39.06,44.06,83.18,Synthesia,Moderate,45.04,14.03
+USA,2020,Retail,26.12,73.78,21.51,22.63,65.41,Midjourney,Strict,44.56,3.46
+Germany,2022,Finance,87.95,12.55,12.61,3.82,25.44,Claude,Lenient,34.37,31.99
+France,2021,Media,42.53,44.38,8.99,49.69,47.11,Synthesia,Moderate,55.15,46.58
+India,2025,Retail,32.74,25.34,9.41,33.42,73.55,DALL-E,Lenient,70.72,19.93
+Canada,2022,Retail,67.15,65.71,8.92,19.32,40.95,Bard,Lenient,48.1,22.15
+India,2022,Automotive,28.48,34.49,18.44,23.5,35.14,DALL-E,Strict,57.31,14.27
+Japan,2025,Retail,44.97,43.93,32.93,18.56,24.81,Stable Diffusion,Moderate,54.38,46.37
+Japan,2023,Media,71.57,72.4,18.28,49.83,32.73,Claude,Moderate,42.97,28.45
+India,2025,Gaming,16.79,8.5,28.43,65.47,23.38,Synthesia,Moderate,59.92,16.4
+South Korea,2023,Marketing,74.81,54.67,22.3,52.34,84.8,Stable Diffusion,Lenient,42.06,11.7
+UK,2024,Gaming,77.52,3.4,14.58,67.9,66.23,DALL-E,Moderate,31.46,41.11
+Japan,2023,Media,27.61,14.49,35.67,18.49,42.88,Claude,Strict,30.12,42.23
+USA,2022,Manufacturing,44.61,26.16,49.34,58.53,75.29,Stable Diffusion,Moderate,32.96,43.24
+Germany,2021,Marketing,81.18,3.56,33.94,68.33,76.84,Claude,Lenient,41.73,39.04
+Japan,2022,Manufacturing,41.28,22.14,10.33,6.67,40.15,Claude,Lenient,61.31,33.26
+China,2024,Manufacturing,48.54,89.58,34.88,66.31,60.28,Midjourney,Moderate,30.52,24.81
+Australia,2025,Gaming,62.64,61.24,37.25,43.72,20.21,Claude,Lenient,79.68,47.08
+Japan,2022,Legal,57.35,94.06,37.36,17.2,20.37,Midjourney,Moderate,88.69,7.53
+South Korea,2024,Retail,26.63,95.37,49.58,1.75,72.35,Midjourney,Strict,53.62,48.53
+South Korea,2024,Media,25.98,52.9,16.06,11.74,47.03,Claude,Strict,55.83,42.56
+France,2020,Media,20.47,1.61,2.43,31.04,52.49,Stable Diffusion,Strict,35.8,24.29
+USA,2021,Manufacturing,83.4,66.33,24.27,34.95,47.21,Claude,Moderate,47.81,47.4
+Canada,2023,Media,61.49,17.53,48.25,20.74,47.72,DALL-E,Moderate,87.9,29.32
+Australia,2022,Gaming,89.96,80.3,25.11,74.04,51.67,Claude,Strict,78.51,17.66
+USA,2025,Media,33.23,75.51,12.61,63.58,77.34,DALL-E,Lenient,48.51,4.66
+South Korea,2020,Automotive,30.94,82.97,37.08,60.61,56.01,Bard,Lenient,85.1,38.38
+Australia,2023,Retail,91.41,67.49,6.67,71.61,54.73,ChatGPT,Strict,53.96,29.35
+USA,2022,Gaming,93.0,42.7,12.92,55.65,51.0,ChatGPT,Lenient,47.34,21.16
+France,2020,Manufacturing,93.16,50.91,36.57,35.31,78.29,ChatGPT,Lenient,65.04,9.04
+China,2022,Media,26.27,38.13,21.79,3.37,65.36,Midjourney,Lenient,54.57,38.02
+Germany,2023,Healthcare,88.75,30.56,31.35,60.23,46.53,ChatGPT,Moderate,70.19,30.79
+India,2024,Finance,50.27,17.89,6.51,30.02,20.76,Claude,Moderate,32.28,26.84
+Australia,2021,Gaming,76.22,75.93,43.3,10.63,61.88,DALL-E,Moderate,65.57,6.82
+UK,2025,Gaming,28.27,3.98,3.19,6.12,49.89,Midjourney,Lenient,54.77,4.4
+Canada,2020,Marketing,41.32,1.52,34.42,17.23,36.29,Midjourney,Lenient,70.43,37.79
+Japan,2021,Education,38.42,40.78,23.06,58.05,81.05,ChatGPT,Strict,80.19,25.28
+Germany,2021,Manufacturing,20.25,99.06,3.81,6.61,80.08,DALL-E,Moderate,80.65,5.5
+India,2022,Media,68.39,34.74,1.41,68.0,35.05,Stable Diffusion,Strict,88.43,34.83
+India,2025,Retail,68.21,68.4,9.32,57.89,61.89,Midjourney,Moderate,78.14,41.3
+South Korea,2021,Marketing,44.99,7.7,18.15,52.91,80.25,ChatGPT,Moderate,32.02,48.91
+UK,2020,Legal,50.34,50.7,1.04,0.58,68.07,Synthesia,Strict,37.36,28.87
+China,2020,Manufacturing,45.27,82.47,12.07,57.15,57.03,Midjourney,Strict,42.57,39.35
+China,2023,Legal,66.93,6.59,3.23,0.85,71.52,Midjourney,Strict,43.34,5.41
+Australia,2024,Automotive,78.21,33.34,6.54,76.76,87.8,Claude,Strict,71.22,49.04
+USA,2023,Finance,83.2,4.85,40.84,22.58,82.54,Bard,Moderate,76.14,35.3
+South Korea,2020,Retail,12.97,76.22,33.17,75.91,27.28,Bard,Lenient,64.0,35.4
+China,2020,Education,70.7,94.67,37.59,44.7,78.66,ChatGPT,Lenient,64.86,3.86
+Australia,2022,Retail,78.6,19.64,1.29,8.47,64.18,ChatGPT,Strict,59.15,13.48
+India,2020,Media,43.55,14.89,13.87,41.09,37.81,ChatGPT,Moderate,86.44,35.3
+UK,2023,Education,82.82,75.53,22.34,1.44,40.39,Midjourney,Strict,36.48,17.29
+South Korea,2023,Legal,75.42,24.03,28.82,42.27,54.72,Stable Diffusion,Lenient,74.85,11.26
+China,2021,Gaming,13.9,51.2,49.71,0.57,65.4,Stable Diffusion,Moderate,68.69,38.59
+Japan,2024,Manufacturing,82.72,17.97,23.56,50.08,24.06,ChatGPT,Strict,77.96,5.46
+India,2021,Education,63.04,82.49,6.68,50.72,81.71,DALL-E,Lenient,33.36,38.6
+China,2020,Manufacturing,72.88,1.55,47.77,76.86,55.78,Midjourney,Moderate,57.09,12.1
+USA,2025,Retail,26.57,38.87,16.33,27.7,77.03,Claude,Moderate,76.47,16.73
+UK,2022,Automotive,80.83,67.55,42.39,51.87,74.39,Synthesia,Strict,33.56,21.66
+France,2024,Finance,73.22,94.47,26.42,28.86,57.06,Stable Diffusion,Strict,30.17,48.56
+USA,2025,Marketing,45.3,42.81,3.03,24.96,78.13,Bard,Moderate,66.28,10.51
+UK,2022,Gaming,89.74,15.64,10.14,3.8,33.44,Midjourney,Moderate,42.99,32.23
+India,2024,Marketing,55.3,67.76,3.21,11.15,48.72,Synthesia,Strict,58.79,45.09
+China,2025,Legal,87.73,44.74,42.89,78.5,39.34,DALL-E,Strict,78.54,32.72
+Germany,2020,Finance,71.9,21.66,37.69,28.02,26.7,Midjourney,Moderate,40.8,37.87
+UK,2021,Gaming,88.38,12.43,23.7,52.51,59.75,Stable Diffusion,Moderate,54.27,48.93
+USA,2021,Gaming,67.18,7.92,40.55,52.54,50.3,Synthesia,Moderate,73.15,8.66
+Japan,2022,Manufacturing,28.6,49.95,40.02,32.2,22.45,Claude,Moderate,51.58,29.9
+China,2022,Automotive,46.72,85.74,15.77,75.69,38.2,ChatGPT,Lenient,83.61,33.06
+Japan,2025,Retail,35.91,2.25,48.37,71.07,68.44,Midjourney,Moderate,85.92,33.33
+Japan,2021,Media,76.22,56.66,15.67,38.03,33.05,Midjourney,Lenient,74.86,49.08
+France,2024,Gaming,27.95,71.37,49.33,0.93,53.7,Stable Diffusion,Moderate,87.06,20.68
+India,2025,Retail,33.2,4.31,14.77,66.25,81.74,Stable Diffusion,Moderate,49.0,16.85
+USA,2025,Retail,38.21,1.04,36.85,8.52,24.88,Claude,Lenient,39.31,11.84
+Germany,2023,Media,43.4,75.92,9.64,33.23,42.07,Midjourney,Moderate,87.28,48.39
+South Korea,2021,Healthcare,67.97,38.18,21.57,17.6,20.43,Midjourney,Moderate,46.5,20.88
+Japan,2025,Automotive,92.96,44.86,14.64,25.17,68.19,Midjourney,Strict,76.16,9.47
+South Korea,2020,Finance,18.91,57.4,40.53,49.28,82.93,Midjourney,Strict,68.44,12.68
+UK,2020,Education,70.59,64.57,23.88,69.35,55.02,Claude,Lenient,89.88,4.47
+South Korea,2023,Finance,83.74,19.68,33.55,1.75,64.79,ChatGPT,Moderate,70.63,46.78
+Canada,2022,Healthcare,52.43,90.69,37.9,9.78,67.03,DALL-E,Strict,63.92,47.98
+USA,2024,Marketing,32.0,44.26,0.09,40.67,32.98,Bard,Strict,60.99,22.31
+South Korea,2020,Education,43.12,42.47,17.26,26.12,38.6,ChatGPT,Moderate,65.57,10.43
+China,2023,Finance,27.02,8.68,25.44,8.51,68.6,Midjourney,Strict,84.37,14.69
+USA,2025,Gaming,29.49,33.14,13.89,4.19,46.4,Bard,Strict,53.68,43.36
+South Korea,2024,Legal,57.15,92.02,29.64,73.89,81.93,DALL-E,Moderate,60.67,37.77
+Australia,2025,Finance,35.83,94.62,29.11,65.36,82.68,Stable Diffusion,Lenient,38.02,20.93
+USA,2020,Media,27.5,23.67,2.21,56.52,60.77,Claude,Strict,36.75,12.56
+Canada,2021,Manufacturing,49.72,73.6,44.52,66.78,73.26,Midjourney,Lenient,89.07,20.52
+France,2025,Media,79.64,87.25,12.32,54.75,82.48,DALL-E,Moderate,49.54,20.17
+South Korea,2021,Healthcare,53.76,94.77,4.08,31.27,32.23,Bard,Lenient,51.34,1.18
+Japan,2025,Manufacturing,91.67,90.28,49.65,26.79,25.29,Stable Diffusion,Strict,38.75,20.54
+Canada,2022,Legal,27.53,95.29,29.08,13.91,52.29,Synthesia,Lenient,70.43,9.06
+India,2025,Education,67.08,80.64,26.79,15.7,59.71,Bard,Strict,53.86,46.63
+Germany,2023,Gaming,77.96,69.51,21.76,41.93,56.36,Bard,Strict,69.0,39.55
+South Korea,2022,Gaming,74.66,26.14,8.89,6.35,58.99,Claude,Lenient,83.38,29.08
+Canada,2025,Legal,82.25,6.81,30.99,76.88,57.0,DALL-E,Lenient,33.48,27.13
+China,2021,Media,85.09,40.12,34.67,50.96,43.18,Midjourney,Moderate,61.28,25.64
+China,2020,Retail,82.41,77.29,11.75,17.78,33.19,DALL-E,Strict,81.88,24.11
+Germany,2024,Healthcare,17.05,52.86,46.37,70.85,79.54,Claude,Strict,83.17,45.6
+Australia,2020,Automotive,14.31,35.59,14.59,36.05,76.71,Claude,Moderate,76.46,2.64
+UK,2022,Marketing,73.89,16.63,47.25,68.91,60.15,ChatGPT,Strict,34.4,27.19
+USA,2021,Marketing,56.81,56.52,15.98,69.17,51.21,Midjourney,Lenient,54.41,20.22
+UK,2025,Healthcare,83.85,7.0,22.88,59.43,66.73,Synthesia,Lenient,43.37,21.52
+China,2020,Media,43.22,52.8,43.2,51.15,51.23,Bard,Moderate,60.89,33.4
+South Korea,2025,Legal,52.86,10.91,17.3,57.82,45.95,Bard,Lenient,79.04,4.09
+Japan,2022,Healthcare,46.79,80.92,15.36,49.09,37.15,Stable Diffusion,Strict,33.05,32.61
+Australia,2021,Media,57.44,74.71,25.91,47.8,82.92,DALL-E,Strict,49.17,43.77
+UK,2022,Automotive,11.99,28.0,21.71,5.14,66.59,DALL-E,Lenient,41.71,5.19
+China,2025,Gaming,70.04,66.6,29.79,23.17,58.46,Bard,Moderate,41.08,8.39
+France,2020,Legal,64.43,41.41,38.39,19.26,88.29,DALL-E,Strict,45.13,6.24
+Germany,2020,Manufacturing,20.23,68.16,49.16,38.34,24.65,Bard,Lenient,58.54,1.63
+Australia,2020,Marketing,33.91,86.4,17.15,59.2,32.1,DALL-E,Lenient,76.05,37.53
+China,2020,Manufacturing,93.49,16.96,20.47,26.27,83.71,ChatGPT,Moderate,70.17,45.17
+India,2021,Manufacturing,45.37,48.59,47.42,40.66,80.62,Bard,Moderate,74.96,47.48
+South Korea,2025,Healthcare,86.58,20.96,24.08,2.49,84.48,Claude,Strict,60.05,42.29
+Japan,2020,Retail,19.03,46.6,31.81,47.63,33.97,Claude,Lenient,78.85,19.08
+Germany,2020,Media,34.28,76.54,26.52,68.89,61.67,ChatGPT,Lenient,57.88,35.63
+UK,2020,Education,67.49,35.37,37.69,49.79,53.15,Stable Diffusion,Moderate,35.56,47.38
+India,2025,Retail,76.35,78.99,3.82,0.73,70.78,Stable Diffusion,Lenient,70.39,45.49
+UK,2021,Automotive,46.44,26.16,49.1,64.98,52.91,Midjourney,Strict,68.32,34.39
+Japan,2023,Manufacturing,78.57,7.24,17.23,47.61,43.84,ChatGPT,Lenient,34.52,39.19
+USA,2021,Education,73.11,98.77,38.22,67.17,87.65,Synthesia,Lenient,31.54,31.14
+India,2020,Automotive,64.03,5.21,41.36,53.59,23.62,DALL-E,Moderate,37.89,34.26
+Australia,2020,Healthcare,21.02,20.5,5.47,79.55,53.09,ChatGPT,Strict,44.82,13.25
+China,2021,Finance,14.76,58.35,39.61,76.52,36.03,Synthesia,Lenient,81.84,22.64
+France,2024,Automotive,15.77,23.95,7.51,43.32,36.55,ChatGPT,Strict,60.71,48.02
+Japan,2022,Media,20.14,3.7,20.68,52.01,37.02,Midjourney,Moderate,81.94,43.92
+India,2024,Media,15.2,30.75,45.44,16.62,31.27,Bard,Lenient,61.68,14.0
+Australia,2020,Finance,69.67,47.75,27.81,55.74,74.99,Synthesia,Moderate,68.67,9.18
+India,2020,Education,70.48,19.97,33.75,15.07,64.12,Stable Diffusion,Moderate,48.13,40.32
+China,2023,Healthcare,80.75,60.93,32.2,14.67,61.33,Claude,Moderate,83.72,32.54
+Canada,2023,Gaming,31.96,49.43,28.25,56.09,79.12,Midjourney,Strict,69.59,21.86
+UK,2024,Automotive,82.54,71.06,44.65,28.93,39.83,DALL-E,Lenient,33.51,49.28
+India,2020,Retail,93.72,27.55,48.33,31.86,75.36,Bard,Moderate,73.23,9.67
+Germany,2020,Manufacturing,21.63,36.58,42.05,61.25,53.0,Synthesia,Moderate,57.27,22.23
+France,2024,Media,23.27,38.75,44.22,67.88,78.13,ChatGPT,Moderate,72.79,13.5
+UK,2020,Automotive,63.03,26.18,31.41,57.91,63.9,Midjourney,Lenient,83.66,6.21
+France,2021,Gaming,54.67,64.1,38.29,27.12,24.78,Stable Diffusion,Moderate,75.6,32.81
+Canada,2020,Education,60.69,56.38,29.34,28.55,39.5,Claude,Strict,30.81,3.26
+India,2024,Gaming,44.17,82.35,42.79,49.74,74.11,Bard,Lenient,81.95,2.49
+Japan,2020,Media,34.27,4.19,28.58,23.4,24.04,Claude,Lenient,87.03,39.95
+China,2020,Media,35.22,84.15,20.44,73.08,65.49,Synthesia,Lenient,48.02,22.55
+Germany,2023,Marketing,20.95,26.53,5.89,2.28,47.14,ChatGPT,Strict,82.45,44.86
+Japan,2023,Marketing,72.59,51.37,40.3,3.84,72.92,Claude,Moderate,76.92,27.59
+Canada,2020,Healthcare,68.24,36.33,22.77,24.34,40.04,ChatGPT,Lenient,45.16,15.34
+France,2020,Media,55.19,41.06,29.26,51.9,49.04,ChatGPT,Moderate,50.12,46.08
+Australia,2023,Marketing,18.43,7.44,2.75,12.96,54.31,ChatGPT,Moderate,73.34,6.21
+Japan,2024,Marketing,88.16,14.83,2.86,26.45,47.53,DALL-E,Moderate,59.28,20.74
+India,2025,Legal,29.45,92.91,42.89,14.73,68.45,Synthesia,Moderate,73.82,17.82
+Canada,2022,Automotive,11.14,28.47,43.11,50.61,78.2,Synthesia,Lenient,81.93,47.32
+India,2025,Education,46.62,72.37,22.03,31.66,35.21,Synthesia,Lenient,46.02,20.08
+France,2022,Retail,43.32,18.93,22.13,61.74,33.94,Claude,Lenient,69.97,13.22
+India,2024,Healthcare,59.85,61.0,41.04,77.48,28.32,Midjourney,Moderate,70.17,30.75
+UK,2020,Finance,88.23,20.18,17.85,10.99,85.27,Claude,Moderate,32.96,32.23
+USA,2021,Education,87.79,40.86,28.82,74.04,70.58,Stable Diffusion,Strict,60.03,12.22
+UK,2021,Education,21.57,77.01,32.52,13.61,37.65,ChatGPT,Strict,33.61,18.87
+Germany,2021,Education,45.09,11.8,27.79,0.14,39.09,Bard,Strict,50.81,20.61
+Canada,2020,Gaming,50.97,16.05,46.78,62.71,68.18,Synthesia,Strict,60.09,31.02
+India,2024,Media,52.18,5.84,36.8,60.81,42.56,Stable Diffusion,Strict,43.6,14.06
+Germany,2021,Media,40.8,42.29,21.03,62.27,21.16,Bard,Lenient,77.31,12.95
+France,2024,Healthcare,77.33,51.28,23.6,23.16,84.93,ChatGPT,Strict,85.01,24.33
+India,2020,Automotive,80.04,36.49,29.72,76.74,69.01,ChatGPT,Moderate,48.27,44.8
+China,2022,Finance,39.48,63.35,25.56,55.14,20.82,Midjourney,Lenient,42.94,36.32
+UK,2022,Gaming,30.18,97.54,18.39,14.76,49.67,Midjourney,Moderate,89.76,12.56
+USA,2020,Finance,36.52,4.2,25.53,71.01,21.92,Bard,Moderate,84.9,29.93
+France,2023,Legal,48.39,57.31,1.2,17.95,61.69,Bard,Lenient,66.25,44.4
+Canada,2020,Legal,39.94,57.79,46.08,44.31,38.14,Midjourney,Strict,46.49,37.29
+Canada,2025,Marketing,78.43,84.82,26.41,4.72,33.28,Synthesia,Moderate,64.49,45.04
+South Korea,2025,Gaming,81.86,35.53,28.46,7.11,63.48,ChatGPT,Moderate,31.33,11.61
+France,2025,Retail,29.61,59.56,24.68,46.92,57.21,DALL-E,Moderate,31.7,28.9
+Germany,2021,Automotive,89.44,52.98,48.47,12.14,30.6,DALL-E,Lenient,77.21,44.35
+Germany,2020,Media,70.11,28.26,27.62,57.86,58.71,DALL-E,Strict,78.74,31.73
+France,2023,Marketing,65.77,49.83,39.94,79.44,43.73,Synthesia,Lenient,81.58,14.62
+Australia,2023,Automotive,45.35,20.49,33.21,50.5,41.73,Claude,Strict,47.42,43.11
+South Korea,2020,Healthcare,10.53,20.97,23.64,34.27,45.67,Stable Diffusion,Moderate,58.52,33.37
