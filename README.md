@@ -3,7 +3,7 @@ Pre-workshop survey https://bino.qualtrics.com/jfe/form/SV_08L5ssRcXvhlrMy
 Link to the second day workshop: Shubin Yu is inviting you to a scheduled Zoom meeting.
 
 Topic: GenAI-Powered Research Methods Workshop
-Time: Apr 5, 2025 09:15 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
+Time: Apr 5, 2025 09:15 AM   
 Join Zoom Meeting
 https://binorwegianbusinessschool.zoom.us/j/61746206810?pwd=4rTK7isyltCEKgSeJt0Y2hg5fGaPLg.1
 
