@@ -1,5 +1,4 @@
 # GenAI-Powered Research Methods Workshop (Hybrid)
-sk-c2785fcc89964f7ea5e4cc78f73e604e  
 Pre-workshop survey https://bino.qualtrics.com/jfe/form/SV_08L5ssRcXvhlrMy  
 Day 1 recording https://www.gaiforresearch.com/post/day-1-workshop-recording-genai-powered-research-methods-workshop  
 
