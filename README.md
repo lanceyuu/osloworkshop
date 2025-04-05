@@ -1,5 +1,7 @@
 # GenAI-Powered Research Methods Workshop (Hybrid)
-Pre-workshop survey https://bino.qualtrics.com/jfe/form/SV_08L5ssRcXvhlrMy
+Pre-workshop survey https://bino.qualtrics.com/jfe/form/SV_08L5ssRcXvhlrMy  
+Day 1 recording https://www.gaiforresearch.com/post/day-1-workshop-recording-genai-powered-research-methods-workshop  
+
 Link to the second day workshop: Shubin Yu is inviting you to a scheduled Zoom meeting.
 
 Topic: GenAI-Powered Research Methods Workshop  
