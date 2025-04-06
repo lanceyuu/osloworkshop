@@ -1,16 +1,7 @@
 # GenAI-Powered Research Methods Workshop (Hybrid)
 Pre-workshop survey https://bino.qualtrics.com/jfe/form/SV_08L5ssRcXvhlrMy  
 Day 1 recording https://www.gaiforresearch.com/post/day-1-workshop-recording-genai-powered-research-methods-workshop  
-
-Link to the second day workshop: Shubin Yu is inviting you to a scheduled Zoom meeting.
-
-Topic: GenAI-Powered Research Methods Workshop  
-Time: Apr 5, 2025 09:15 AM   
-Join Zoom Meeting
-https://binorwegianbusinessschool.zoom.us/j/61746206810?pwd=4rTK7isyltCEKgSeJt0Y2hg5fGaPLg.1
-
-Meeting ID: 617 4620 6810
-Passcode: 888
+Day 2 recording https://www.gaiforresearch.com/post/day-2-workshop-recording-genai-powered-research-methods-workshop  
 
 Day 1 - April 4, 2025 (9:30 AM - 5:00 PM)  
 Morning Session (9:30 AM - 12:30 PM)  
